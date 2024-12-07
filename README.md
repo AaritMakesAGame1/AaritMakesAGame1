@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AaritMakesAGame1
-- 👀 I’m interested in game devolpment
-- 🌱 I’m currently learning C#
+- 👀 I’m a in game dev in trainign by my sensei
+- 🌱 I’m currently learning Adv. Java
 - 😄 Pronouns: he,him
-- ⚡ Fun fact: I have not taken any classes and game devolpment came to me as asort of\nhobby during the pandemic and now i do it alsmost everyday
+- ⚡ Fun fact: I am bad at game deving
 
 <!---
 AaritMakesAGame1/AaritMakesAGame1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
